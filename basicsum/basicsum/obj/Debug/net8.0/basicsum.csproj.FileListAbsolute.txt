@@ -1,0 +1,14 @@
+C:\Users\monster\source\repos\basicsum\basicsum\obj\Debug\net8.0\basicsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\basicsum\basicsum\obj\Debug\net8.0\basicsum.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\basicsum\basicsum\obj\Debug\net8.0\basicsum.AssemblyInfo.cs
+C:\Users\monster\source\repos\basicsum\basicsum\obj\Debug\net8.0\basicsum.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\basicsum\basicsum\bin\Debug\net8.0\basicsum.exe
+C:\Users\monster\source\repos\basicsum\basicsum\bin\Debug\net8.0\basicsum.deps.json
+C:\Users\monster\source\repos\basicsum\basicsum\bin\Debug\net8.0\basicsum.runtimeconfig.json
+C:\Users\monster\source\repos\basicsum\basicsum\bin\Debug\net8.0\basicsum.dll
+C:\Users\monster\source\repos\basicsum\basicsum\bin\Debug\net8.0\basicsum.pdb
+C:\Users\monster\source\repos\basicsum\basicsum\obj\Debug\net8.0\basicsum.dll
+C:\Users\monster\source\repos\basicsum\basicsum\obj\Debug\net8.0\refint\basicsum.dll
+C:\Users\monster\source\repos\basicsum\basicsum\obj\Debug\net8.0\basicsum.pdb
+C:\Users\monster\source\repos\basicsum\basicsum\obj\Debug\net8.0\basicsum.genruntimeconfig.cache
+C:\Users\monster\source\repos\basicsum\basicsum\obj\Debug\net8.0\ref\basicsum.dll

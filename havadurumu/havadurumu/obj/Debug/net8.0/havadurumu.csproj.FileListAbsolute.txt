@@ -1,0 +1,14 @@
+C:\Users\monster\source\repos\havadurumu\havadurumu\bin\Debug\net8.0\havadurumu.exe
+C:\Users\monster\source\repos\havadurumu\havadurumu\bin\Debug\net8.0\havadurumu.deps.json
+C:\Users\monster\source\repos\havadurumu\havadurumu\bin\Debug\net8.0\havadurumu.runtimeconfig.json
+C:\Users\monster\source\repos\havadurumu\havadurumu\bin\Debug\net8.0\havadurumu.dll
+C:\Users\monster\source\repos\havadurumu\havadurumu\bin\Debug\net8.0\havadurumu.pdb
+C:\Users\monster\source\repos\havadurumu\havadurumu\obj\Debug\net8.0\havadurumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\havadurumu\havadurumu\obj\Debug\net8.0\havadurumu.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\havadurumu\havadurumu\obj\Debug\net8.0\havadurumu.AssemblyInfo.cs
+C:\Users\monster\source\repos\havadurumu\havadurumu\obj\Debug\net8.0\havadurumu.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\havadurumu\havadurumu\obj\Debug\net8.0\havadurumu.dll
+C:\Users\monster\source\repos\havadurumu\havadurumu\obj\Debug\net8.0\refint\havadurumu.dll
+C:\Users\monster\source\repos\havadurumu\havadurumu\obj\Debug\net8.0\havadurumu.pdb
+C:\Users\monster\source\repos\havadurumu\havadurumu\obj\Debug\net8.0\havadurumu.genruntimeconfig.cache
+C:\Users\monster\source\repos\havadurumu\havadurumu\obj\Debug\net8.0\ref\havadurumu.dll
